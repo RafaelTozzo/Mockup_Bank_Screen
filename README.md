@@ -1,4 +1,4 @@
-# Mockup Bank screen
+# Mockup Bank Screen
 
 The objective is to create a Bank homepage using Flutter.
 
