@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
             ),
             Padding(
               padding: const EdgeInsets.only(right: 12.0, left: 12.0),
-              child: Container(
+              child: SizedBox(
                 width: 390,
                 height: 45,
                 child: ElevatedButton(
@@ -78,7 +78,7 @@ class HomePage extends StatelessWidget {
             ),
             Padding(
               padding: const EdgeInsets.only(right: 12.0, left: 12.0),
-              child: Container(
+              child: SizedBox(
                 width: 390,
                 height: 45,
                 child: ElevatedButton(
